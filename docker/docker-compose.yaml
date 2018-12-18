@@ -1,0 +1,5 @@
+version: "3.4"
+services:
+  identity-storage-sql:
+    build:
+      context: identity-storage/sql
